@@ -1,4 +1,4 @@
-# Final Homework for CS349
+# Final Homework for CS349 Option 2
 # Tianyu Li (tlv4285)
 
 Many companies and individuals have been looking for ways to predict stock market price. The methods range from creating mathematical or social psychological model to even astrology. The recent advancement of computational power and application of machine learning provides a new opportunity to predict stock market price. The goal of this project is to examine the usage of Long Short Term Memory (LSTM) machine learning model on predicting stock market price.
