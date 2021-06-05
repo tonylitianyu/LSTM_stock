@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-
+#from https://medium.com/swlh/stock-price-prediction-with-pytorch-37f52ae84632
 class LSTM(nn.Module):
 
     def __init__(self, input_dim, hidden_dim, n_layers, output_dim):
